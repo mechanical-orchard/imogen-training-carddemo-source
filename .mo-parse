@@ -2,6 +2,7 @@
     "ClientProject": "aws-carddemo",
     "ClientProjectRoot": "app",
     "Directories": [
+      "asm",
       "bms",
       "cbl",
       "cpy",
@@ -13,6 +14,10 @@
     ],
     "OmitFiles": [],
     "Dirs": [
+      [
+        "asm",
+        "assembly"
+      ],
       [
         "cbl",
         "cobol"
