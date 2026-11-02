@@ -23,6 +23,10 @@
       * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
       * either express or implied. See the License for the specific
       * language governing permissions and limitations under the License
+      *
+      * Modified by Mechanical Orchard, Inc., 2026: the export file's
+      * record key is now EXP-KEY and its record layout matches the
+      * export KSDS definition KEYS(4 27). RECORDING MODE removed.
       ******************************************************************
       * Business Use Case: Branch Migration Export
       * - Read complete customer profiles from CardDemo files

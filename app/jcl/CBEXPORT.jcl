@@ -15,6 +15,9 @@
 //* "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,    
 //* either express or implied. See the License for the specific     
 //* language governing permissions and limitations under the License
+//*
+//* Modified by Mechanical Orchard, Inc., 2026: export KSDS key
+//* offset changed from KEYS(4 28) to KEYS(4 27).
 //* *******************************************************************
 //* EXPORT CUSTOMER DATA FROM VSAM FILES TO MULTI-RECORD EXPORT FILE
 //* FOR BRANCH MIGRATION OR DATA TRANSFER PURPOSES
